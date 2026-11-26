@@ -27,7 +27,8 @@ class ProductListScreen extends StatelessWidget {
       description:
           'Adjustable desk lamp for studying and reading.',
       rating: 4.7,
-    ),Product(
+    ),
+    Product(
       id: 'P004',
       title: 'PS5',
       description:

@@ -87,7 +87,7 @@ class StudentProfilePage extends StatelessWidget {
               ),
               profileField(
                 'About me',
-                'Write a short introduction about yourself.',
+                'I am John Michael C. Grana, a third-year BSCS student with a passion for table tennis. I enjoy learning new technologies and improving my skills in programming.',
               ),
               profileField(
                 'Achievements',
@@ -95,7 +95,7 @@ class StudentProfilePage extends StatelessWidget {
               ),
               profileField(
                 'Skills',
-                'Programming, communication, teamwork',
+                'Table Tennis, procrastination, and coding',
               ),
             ],
           ),
