@@ -87,7 +87,7 @@ class StudentProfilePage extends StatelessWidget {
               ),
               profileField(
                 'About me',
-                'I am John Michael C. Grana, a third-year BSCS student with a passion for table tennis. I enjoy learning new technologies and improving my skills in programming.',
+                'I am John Michael C. Grana, a third-year BSCS student with a passion for table tennis. I enjoy playing video games and watching Youtube.',
               ),
               profileField(
                 'Achievements',
