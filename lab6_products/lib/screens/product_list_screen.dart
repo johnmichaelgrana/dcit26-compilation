@@ -35,6 +35,13 @@ class ProductListScreen extends StatelessWidget {
           'You can play the latest games with this console.',
       rating: 3.5,
     ),
+    Product(
+      id: 'P005',
+      title: 'PS5 Controller',
+      description:
+          'You can play the latest games in the PS5 with this controller.',
+      rating: 3.5,
+    ),
   ];
 
   @override
